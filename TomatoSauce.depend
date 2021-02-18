@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1486147962 source:c:\users\user\documents\code blocks files\tomatosauce\imain.cpp
+	"iGraphics.h"
+	"bitmap_viewer.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1484945336 c:\users\user\documents\code blocks files\tomatosauce\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+
+1484419424 c:\users\user\documents\code blocks files\tomatosauce\bitmap_viewer.h
+	<stdio.h>
+
+1486147964 source:f:\game progect\tomatosauce-2\tomatosauce\imain.cpp
+	"iGraphics.h"
+	"bitmap_viewer.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1484945338 f:\game progect\tomatosauce-2\tomatosauce\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+
+1484419426 f:\game progect\tomatosauce-2\tomatosauce\bitmap_viewer.h
+	<stdio.h>
+
